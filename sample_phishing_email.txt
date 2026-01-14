@@ -1,0 +1,11 @@
+Dear user,
+
+Your account has been suspended due to suspicious activity.
+Please verify your account immediately by clicking the link below:
+
+http://secure-login-update[.]com/verify
+
+If you do not verify within 24 hours, your account will be locked.
+
+Regards,
+IT Support
